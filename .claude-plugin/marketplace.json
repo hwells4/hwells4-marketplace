@@ -1,0 +1,28 @@
+{
+  "name": "hwells4-plugins",
+  "owner": {
+    "name": "Harrison Wells",
+    "url": "https://github.com/hwells4"
+  },
+  "metadata": {
+    "description": "Claude Code plugins by Harrison Wells",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "create-hook",
+      "description": "Quickly scaffold Claude Code hooks with templates, validation, and conflict analysis",
+      "version": "1.0.0",
+      "author": {
+        "name": "Harrison Wells",
+        "url": "https://github.com/hwells4"
+      },
+      "homepage": "https://github.com/hwells4/create-hooks",
+      "tags": ["hooks", "automation", "scaffolding", "templates"],
+      "source": {
+        "source": "github",
+        "repo": "hwells4/create-hooks"
+      }
+    }
+  ]
+}
